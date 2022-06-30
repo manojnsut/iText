@@ -95,7 +95,7 @@ a {
 	padding: 10px;
 	margin-bottom: 15px;
 	background-color: var(--light-color);
-	border-radius: 5px;
+	border-radius: 15px;
 }
 
 .chat-messages .message .meta {
